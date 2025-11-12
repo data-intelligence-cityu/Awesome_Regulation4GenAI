@@ -1,0 +1,260 @@
+{
+  "articles": [
+    {
+      "chapter": "GENERAL PROVISIONS",
+      "article_number": "4"
+    },
+    {
+      "chapter": "PROHIBITED AI PRACTICES",
+      "article_number": "5"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "6"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "8"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "9"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "10"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "11"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "12"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "13"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "14"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "15"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "16"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "17"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "18"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "19"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "20"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "21"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "22"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "23"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "24"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "25"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "26"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "27"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "42"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "43"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "44"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "46"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "47"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "48"
+    },
+    {
+      "chapter": "HIGH-RISK AI SYSTEMS",
+      "article_number": "49"
+    },
+    {
+      "chapter": "TRANSPARENCY OBLIGATIONS FOR PROVIDERS AND DEPLOYERS OF CERTAIN AI SYSTEMS",
+      "article_number": "50"
+    },
+    {
+      "chapter": "GENERAL-PURPOSE AI MODELS",
+      "article_number": "51"
+    },
+    {
+      "chapter": "GENERAL-PURPOSE AI MODELS",
+      "article_number": "52"
+    },
+    {
+      "chapter": "GENERAL-PURPOSE AI MODELS",
+      "article_number": "53"
+    },
+    {
+      "chapter": "GENERAL-PURPOSE AI MODELS",
+      "article_number": "54"
+    },
+    {
+      "chapter": "GENERAL-PURPOSE AI MODELS",
+      "article_number": "55"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "57"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "58"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "59"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "60"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "61"
+    },
+    {
+      "chapter": "MEASURES IN SUPPORT OF INNOVATION",
+      "article_number": "62"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "72"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "73"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "74"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "75"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "76"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "77"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "78"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "79"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "80"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "82"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "83"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "85"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "86"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "89"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "90"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "91"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "92"
+    },
+    {
+      "chapter": "POST-MARKET MONITORING, INFORMATION SHARING AND MARKET SURVEILLANCE",
+      "article_number": "93"
+    },
+    {
+      "chapter": "CODES OF CONDUCT AND GUIDELINES",
+      "article_number": "95"
+    },
+    {
+      "chapter": "PENALTIES",
+      "article_number": "99"
+    },
+    {
+      "chapter": "PENALTIES",
+      "article_number": "101"
+    },
+    {
+      "chapter": "FINAL PROVISIONS",
+      "article_number": "111"
+    }
+  ]
+}
